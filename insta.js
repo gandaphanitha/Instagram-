@@ -5,7 +5,7 @@
         const specialChars = ["!", "@", "#", "$", "%", "^", "&", "*"];
 
         if (password.length < 8) {
-            console.log("Password is too short. It must be at least 8 characters long.");
+            console.log("Password is  must be at least 8 characters ");
             return;
         }
 

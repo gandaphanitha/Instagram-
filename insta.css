@@ -104,6 +104,10 @@ body {
     font-size: 15px;
     font-weight: 500;
     color: #385185;
+    
+}
+.log:hover{
+    text-decoration: none;
 }
 
 a {
